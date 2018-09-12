@@ -1,6 +1,7 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import pprint
+# ''' From Wikipedia article; Iterative with two matrix rows. '''
 def levenshtein(s, t):
         if s == t: return 0
         elif len(s) == 0: return len(t)
@@ -24,17 +25,14 @@ creds = ServiceAccountCredentials.from_json_keyfile_name('Country name Project-0
 client = gspread.authorize(creds)
 sh =  client.open('Country name project').sheet1
 pp = pprint.PrettyPrinter()
-result = sh.col_values(2)
+result = sh.col_values(6)
 ##pp.pprint(result)
 
-cell_list1 = sh.range('C1:C30')
-cell_list2 = sh.range('D1:D30')
-cell_list3 = sh.range('E1:E30')
 
+cell_list1 = sh.range('B1:B500')
+cell_list2 = sh.range('C1:C500')
 for i, val in enumerate(result): 
  cell_list1[i].value=val
-
-## pp.pprint(cell_list)
 
 sh.update_cells(cell_list1)               # Update in batch
 count=0                                   # For counting same input
@@ -48,21 +46,27 @@ for i, val in enumerate(result,0):
    if count > 0:
     cell_list1[j].value = ' '
     cell_list2[j].value = ' '
-
-    
  cell_list1[cellcount].value = val
  cell_list2[cellcount].value = count   
  count=0
- ######################################################if 
  cellcount = cellcount + 1
-sh.update_cells(cell_list1)
-sh.update_cells(cell_list2)
+
+for i, val in enumerate(cell_list1,0):
+   if cell_list1[i].value != ' ':
+     for j, val in enumerate(cell_list1,0):
+         if cell_list1[j].value == ' ':
+             cell_list1[j].value = cell_list1[i].value
+             cell_list2[j].value = cell_list2[i].value
+             cell_list1[i].value = ' '
+             cell_list2[i].value = ' '
+
+#pp.pprint(cell_list1)
+#pp.pprint(cell_list2)
+sh.update_cells(cell_list1) # Update in batch
+sh.update_cells(cell_list2) # Update in batch
 
 
-##result = sh.col_values(2)
-## pp.pprint(result)
 
 
 
-# ''' From Wikipedia article; Iterative with two matrix rows. '''
 
