@@ -2,11 +2,10 @@
 
 import sys  
 sys.path.insert(0, r'/home/fahim/Downloads/Country name project/Python_files') 
-from Distance_calculate_4 import Distance_calculate
+from Read_from_GoogleSheet_1 import Read_from_GoogleSheet
 
-class Cluster_data():
-    print('finish3')
-    Distance_calculate()
+class main_():
+    Read_from_GoogleSheet()
 
 if __name__ == '__main__':
-    Cluster_data()
+    main_()
