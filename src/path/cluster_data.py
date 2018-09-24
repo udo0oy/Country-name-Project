@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
 
 import sys
-from distance_calculate import DistanceCalculate
 
+class DataCluster():
+    print('finish3',flush=True)
 
-class ClusterData():
-    DistanceCalculate()
-    print('finish3')
-
-
-ClusterData()
+DataCluster()

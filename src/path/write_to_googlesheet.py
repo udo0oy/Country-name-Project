@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
+
 import json
 
-class WriteToGooglesheet():
+class GooglesheetWritter():
     print('finish5')
 
-WriteToGooglesheet()
