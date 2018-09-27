@@ -7,7 +7,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 class GooglesheetReader():
     scope = ['https://spreadsheets.google.com/feeds',
              'https://www.googleapis.com/auth/drive']
-    creds = ServiceAccountCredentials.from_json_keyfile_name('/home/fahim/Downloads/Country name project/src/path/Country name Project-0e6407319613.json', scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name('/home/fahim/Downloads/Country name project/src/python/Country name Project-0e6407319613.json', scope)
     client = gspread.authorize(creds)
     sh = client.open('Country name project').sheet1
     result = sh.col_values(6)
