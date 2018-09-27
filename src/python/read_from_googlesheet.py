@@ -4,18 +4,23 @@ import json
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-class GooglesheetReader():
-    scope = ['https://spreadsheets.google.com/feeds',
+class GooglesheetReader(object):
+
+    _scope = ['https://spreadsheets.google.com/feeds',
              'https://www.googleapis.com/auth/drive']
-    creds = ServiceAccountCredentials.from_json_keyfile_name('/home/fahim/Downloads/Country name project/src/conf/Country name Project-0e6407319613.json', scope)
-    client = gspread.authorize(creds)
-    sh = client.open('Country name project').sheet1
-    result = sh.col_values(1)
+    _cred = '../conf/credential.json'
+    _gsheet = 'Country name project'
+    _outputfilename = '../../temp/data_from_googlesheets.json'
 
-    outputfilename = '/home/fahim/Downloads/Country name project/temp/data_from_googlesheets.json'
-    with open(outputfilename, 'w') as outfile:
-       json.dump(result, outfile)
+    def read(self):
+        creds = ServiceAccountCredentials.from_json_keyfile_name(self._cred, self._scope)
+        client = gspread.authorize(creds)
+        sh = client.open(self._gsheet).sheet1
+        result = sh.col_values(1)
 
-    print('finish1')
+        with open(self._outputfilename, 'w') as outfile:
+            json.dump(result, outfile)
 
-GooglesheetReader()
+if __name__ == '__main__':
+    sheet_reader = GooglesheetReader()
+    sheet_reader.read()
