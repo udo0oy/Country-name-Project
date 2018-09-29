@@ -2,31 +2,33 @@
 
 import json
 
-class DataAggregator():
-    User_Data = []
-    connection_file = open('/home/fahim/Downloads/Country name project/temp/data_from_googlesheets.json', 'r')
-    try:
-        qByUser = connection_file.read()
-        User_Data = json.loads(qByUser)
-    except ValueError:
-        print
-        'Decoding JSON has failed'
-    connection_file.close()
+class DataAggregator(object):
+    _User_Data = []
+    _connection_file = '../../temp/data_from_googlesheets.json'
+    _outputfilename = '../../temp/aggregated_data.json'
 
 
-    def get_cnt(lVals):
-        d = dict(zip(lVals, [0] * len(lVals)))
-        for x in lVals:
-            d[x] += 1
-        return d
+    def read(self):
+        connection_file=open(self._connection_file, 'r')
+        try:
+            qByUser = connection_file.read()
+            self._User_Data = json.loads(qByUser)
+        except ValueError:
+            print
+            'Decoding JSON has failed'
+        connection_file.close()
 
-    sortDic = dict(sorted(get_cnt(User_Data).items()))
+        sortDic = dict(sorted(get_cnt(self._User_Data).items()))
 
-    outputfilename = '/home/fahim/Downloads/Country name project/temp/aggregated_data.json'
-    with open(outputfilename, 'w') as outfile:
-        json.dump(sortDic, outfile)
-    print(sortDic)
-    print('finish2')
+        with open(self._outputfilename, 'w') as outfile:
+            json.dump(sortDic, outfile)
 
+def get_cnt(lVals):
+    d = dict(zip(lVals, [0] * len(lVals)))
+    for x in lVals:
+        d[x] += 1
+    return d
 
-DataAggregator()
+if __name__ == '__main__':
+    Data_Aggregator = DataAggregator()
+    Data_Aggregator.read()
