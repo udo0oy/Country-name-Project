@@ -2,7 +2,12 @@
 
 import sys
 
-class DistanceCalculator():
-    print('finish4')
 
-DistanceCalculator()
+class DistanceCalculator(object):
+    def read(self):
+        pass
+
+
+if __name__ == '__main__':
+    Distance_Calculator = DistanceCalculator()
+    Distance_Calculator.read()

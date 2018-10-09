@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+from collections import defaultdict
 
 class DataAggregator(object):
     _User_Data = []
@@ -18,17 +19,20 @@ class DataAggregator(object):
             'Decoding JSON has failed'
         connection_file.close()
 
-        sortDic = dict(sorted(get_cnt(self._User_Data).items()))
 
+    def write(self):
         with open(self._outputfilename, 'w') as outfile:
-            json.dump(sortDic, outfile)
+            json.dump(sortDic, outfile, indent=4)
 
-def get_cnt(lVals):
-    d = dict(zip(lVals, [0] * len(lVals)))
-    for x in lVals:
-        d[x] += 1
-    return d
+    def get_cnt(self, lVals):
+        d = defaultdict(int)
+        for x in lVals:
+            d[x] += 1
+
+        return d
 
 if __name__ == '__main__':
     Data_Aggregator = DataAggregator()
     Data_Aggregator.read()
+    sortDic = dict(sorted(Data_Aggregator.get_cnt(Data_Aggregator._User_Data).items()))
+    Data_Aggregator.write()

@@ -2,6 +2,10 @@
 
 import json
 
-class GooglesheetWritter():
-    print('finish5')
+class GooglesheetWritter(object):
+    def read(self):
+            pass
 
+if __name__ == '__main__':
+    Googlesheet_Writter = GooglesheetWritter()
+    Googlesheet_Writter.read()

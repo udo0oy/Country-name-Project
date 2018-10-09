@@ -29,7 +29,7 @@ class DataCluster(object):
                 self._User_Data[key] = [self._User_Data[key], val]
 
         with open(self._Output_File_Name, 'w') as outfile:
-            json.dump(self._User_Data, outfile)
+            json.dump(self._User_Data, outfile,indent=4)
 
 if __name__ == '__main__':
     Data_Aggregator = DataCluster()
