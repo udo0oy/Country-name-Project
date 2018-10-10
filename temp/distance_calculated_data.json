@@ -1,0 +1,2206 @@
+{
+    "ABODABE": [
+        1,
+        "APTP"
+    ],
+    "ABU DHABI": [
+        2,
+        "APTP"
+    ],
+    "ABUDABI": [
+        1,
+        "APTP"
+    ],
+    "AFRICA": [
+        1,
+        "AFRK"
+    ],
+    "AFRICK": [
+        1,
+        "AFRK"
+    ],
+    "AMERICA": [
+        8,
+        "AMRK"
+    ],
+    "AMERIKA": [
+        2,
+        "AMRK"
+    ],
+    "AMMAN": [
+        1,
+        "AMN"
+    ],
+    "ARAB AMIRAT DUBAI": [
+        1,
+        "ARPMRTTP"
+    ],
+    "AROBIA IMARATH": [
+        1,
+        "ARPMR0"
+    ],
+    "AUSTRALIA": [
+        2,
+        "ASTRL"
+    ],
+    "Abodabi": [
+        1,
+        "APTP"
+    ],
+    "Abu Dhabi": [
+        3,
+        "APTP"
+    ],
+    "Abudabi": [
+        2,
+        "APTP"
+    ],
+    "Abudhabi": [
+        2,
+        "APTP"
+    ],
+    "Afghanistan": [
+        1,
+        "AFKNSTN"
+    ],
+    "Africa": [
+        4,
+        "AFRK"
+    ],
+    "Albania": [
+        6,
+        "ALPN"
+    ],
+    "America": [
+        4,
+        "AMRK"
+    ],
+    "American": [
+        1,
+        "AMRKN"
+    ],
+    "American Samoa": [
+        25,
+        "AMRKNSM"
+    ],
+    "Angola": [
+        1,
+        "ANKL"
+    ],
+    "Anguilla": [
+        1,
+        "ANKL"
+    ],
+    "Argentina": [
+        1,
+        "ARJNTN"
+    ],
+    "Armenia": [
+        4,
+        "ARMN"
+    ],
+    "Aruba": [
+        4,
+        "ARP"
+    ],
+    "Astray": [
+        1,
+        "ASTR"
+    ],
+    "Australia": [
+        12,
+        "ASTRL"
+    ],
+    "Austria": [
+        10,
+        "ASTR"
+    ],
+    "BAHARAM": [
+        1,
+        "PHRM"
+    ],
+    "BHRUNI": [
+        1,
+        "PRN"
+    ],
+    "BONAI": [
+        3,
+        "PN"
+    ],
+    "BONAY": [
+        1,
+        "PN"
+    ],
+    "BRONAI": [
+        1,
+        "PRN"
+    ],
+    "BRUNAI": [
+        2,
+        "PRN"
+    ],
+    "BRUNAY": [
+        1,
+        "PRN"
+    ],
+    "BRUNEI": [
+        3,
+        "PRN"
+    ],
+    "BRUNRI": [
+        1,
+        "PRNR"
+    ],
+    "BRUNY": [
+        1,
+        "PRN"
+    ],
+    "BUNAI": [
+        4,
+        "PN"
+    ],
+    "Bahrain": [
+        2975,
+        "PRN"
+    ],
+    "Baljiam": [
+        1,
+        "PLM"
+    ],
+    "Bangladesh": [
+        21,
+        "PNKLTX"
+    ],
+    "Belgium": [
+        18,
+        "PLJM"
+    ],
+    "Belize": [
+        2,
+        "PLS"
+    ],
+    "Benin": [
+        3,
+        "PNN"
+    ],
+    "Bonai": [
+        3,
+        "PN"
+    ],
+    "Botswana": [
+        7,
+        "PTSN"
+    ],
+    "Brazil": [
+        10,
+        "PRSL"
+    ],
+    "British Indian Ocean Territory": [
+        1,
+        "PRTXNTNSNTRTR"
+    ],
+    "Bronai": [
+        2,
+        "PRN"
+    ],
+    "Brunai": [
+        32,
+        "PRN"
+    ],
+    "Brunei": [
+        115,
+        "PRN"
+    ],
+    "Bunai": [
+        1,
+        "PN"
+    ],
+    "Bungay": [
+        2,
+        "PNK"
+    ],
+    "CHAYPACH": [
+        1,
+        "XPK"
+    ],
+    "CYPRUS": [
+        1,
+        "SPRS"
+    ],
+    "Caipas": [
+        2,
+        "KPS"
+    ],
+    "Canada": [
+        5,
+        "KNT"
+    ],
+    "Chicheley": [
+        2,
+        "XXL"
+    ],
+    "Cocos (Keeling) Islands": [
+        1,
+        "KKSKLNKLNTS"
+    ],
+    "Cyprus": [
+        16,
+        "SPRS"
+    ],
+    "DOBAI": [
+        46,
+        "TP"
+    ],
+    "DOBAY": [
+        7,
+        "TP"
+    ],
+    "DOBI": [
+        2,
+        "TP"
+    ],
+    "DOBY": [
+        2,
+        "TP"
+    ],
+    "DOBYA": [
+        1,
+        "TP"
+    ],
+    "DOKKIN KOREI": [
+        1,
+        "TKNKR"
+    ],
+    "DUBAI": [
+        118,
+        "TP"
+    ],
+    "DUBAY": [
+        6,
+        "TP"
+    ],
+    "DUBI": [
+        2,
+        "TP"
+    ],
+    "DUBIYA": [
+        3,
+        "TP"
+    ],
+    "DUBY": [
+        3,
+        "TP"
+    ],
+    "DUVAI": [
+        7,
+        "TF"
+    ],
+    "Democratic Republic of the Congo": [
+        2,
+        "TMKRTKRPPLKF0KNK"
+    ],
+    "Denmark": [
+        5,
+        "TNMRK"
+    ],
+    "Djibouti": [
+        8,
+        "TJPT"
+    ],
+    "Dobai": [
+        13,
+        "TP"
+    ],
+    "Dobal": [
+        1,
+        "TPL"
+    ],
+    "Dobay": [
+        9,
+        "TP"
+    ],
+    "Dobby": [
+        1,
+        "TP"
+    ],
+    "Dominica": [
+        8,
+        "TMNK"
+    ],
+    "Dominican Republic": [
+        6,
+        "TMNKNRPPLK"
+    ],
+    "Dovai": [
+        1,
+        "TF"
+    ],
+    "Dubai": [
+        104,
+        "TP"
+    ],
+    "Dubay": [
+        1,
+        "TP"
+    ],
+    "Dubayi": [
+        1,
+        "TP"
+    ],
+    "Dubi": [
+        32,
+        "TP"
+    ],
+    "Dubiya": [
+        8,
+        "TP"
+    ],
+    "Duni": [
+        1,
+        "TN"
+    ],
+    "EITALI": [
+        1,
+        "ATL"
+    ],
+    "EITALLI": [
+        1,
+        "ATL"
+    ],
+    "ERAK": [
+        1,
+        "ARK"
+    ],
+    "ESPAIN": [
+        3,
+        "ASPN"
+    ],
+    "ESPANA": [
+        2,
+        "ASPN"
+    ],
+    "ETALI": [
+        2,
+        "ATL"
+    ],
+    "East Timor": [
+        1,
+        "ASTTMR"
+    ],
+    "Ecuador": [
+        1,
+        "AKTR"
+    ],
+    "England": [
+        9,
+        "ANKLNT"
+    ],
+    "Eritrea": [
+        2,
+        "ARTR"
+    ],
+    "Etali": [
+        1,
+        "ATL"
+    ],
+    "FIJI AILAND": [
+        1,
+        "FJLNT"
+    ],
+    "FRANCE": [
+        7,
+        "FRNS"
+    ],
+    "FRANCH": [
+        1,
+        "FRNX"
+    ],
+    "Fanc": [
+        1,
+        "FNK"
+    ],
+    "Farnch": [
+        1,
+        "FRNX"
+    ],
+    "Farns": [
+        1,
+        "FRNS"
+    ],
+    "Finland": [
+        2,
+        "FNLNT"
+    ],
+    "Former Yugoslav Republic of Macedonia": [
+        1,
+        "FRMRKSLFRPPLKFMSTN"
+    ],
+    "Franc": [
+        2,
+        "FRNK"
+    ],
+    "France": [
+        127,
+        "FRNS"
+    ],
+    "Franch": [
+        4,
+        "FRNX"
+    ],
+    "Frince": [
+        4,
+        "FRNS"
+    ],
+    "GERMANY": [
+        1,
+        "KRMN"
+    ],
+    "GIRIS": [
+        1,
+        "JRS"
+    ],
+    "GREECE": [
+        2,
+        "KRS"
+    ],
+    "GRESE": [
+        4,
+        "KRS"
+    ],
+    "GREZE": [
+        1,
+        "KRS"
+    ],
+    "Georgia": [
+        1,
+        "JRJ"
+    ],
+    "Geres": [
+        1,
+        "KRS"
+    ],
+    "German": [
+        2,
+        "KRMN"
+    ],
+    "Germany": [
+        41,
+        "KRMN"
+    ],
+    "Giris": [
+        1,
+        "JRS"
+    ],
+    "Girish": [
+        1,
+        "JRX"
+    ],
+    "Greec": [
+        2,
+        "KRK"
+    ],
+    "Greece": [
+        81,
+        "KRS"
+    ],
+    "Greecsh": [
+        1,
+        "KRKX"
+    ],
+    "Greehs": [
+        7,
+        "KRS"
+    ],
+    "Gress": [
+        7,
+        "KRS"
+    ],
+    "Gurdan": [
+        1,
+        "KRTN"
+    ],
+    "HONGKONG": [
+        1,
+        "HNKKNK"
+    ],
+    "Hong Kong": [
+        6,
+        "HNKKNK"
+    ],
+    "Hong-Kong": [
+        1,
+        "HNKKNK"
+    ],
+    "Hongkong": [
+        4,
+        "HNKKNK"
+    ],
+    "IRAQ": [
+        1,
+        "ARK"
+    ],
+    "IRELAND": [
+        1,
+        "ARLNT"
+    ],
+    "ITALE": [
+        2,
+        "ATL"
+    ],
+    "ITALI": [
+        10,
+        "ATL"
+    ],
+    "ITALY": [
+        20,
+        "ATL"
+    ],
+    "ITLAY": [
+        3,
+        "ATL"
+    ],
+    "Iceland": [
+        1,
+        "ASLNT"
+    ],
+    "Ierak": [
+        1,
+        "ARK"
+    ],
+    "India": [
+        3,
+        "ANT"
+    ],
+    "Irak": [
+        1,
+        "ARK"
+    ],
+    "Iran": [
+        5,
+        "ARN"
+    ],
+    "Iraq": [
+        246,
+        "ARK"
+    ],
+    "Ireland": [
+        12,
+        "ARLNT"
+    ],
+    "IrelandGalway": [
+        1,
+        "ARLNTKL"
+    ],
+    "Irlend": [
+        1,
+        "ARLNT"
+    ],
+    "Itali": [
+        14,
+        "ATL"
+    ],
+    "Italia": [
+        3,
+        "ATL"
+    ],
+    "Italy": [
+        528,
+        "ATL"
+    ],
+    "Itate": [
+        1,
+        "ATT"
+    ],
+    "Itay": [
+        4,
+        "AT"
+    ],
+    "Itily": [
+        1,
+        "ATL"
+    ],
+    "Itlay": [
+        9,
+        "ATL"
+    ],
+    "JARDAN": [
+        2,
+        "JRTN"
+    ],
+    "JARMAN": [
+        11,
+        "JRMN"
+    ],
+    "JORDAN": [
+        14,
+        "JRTN"
+    ],
+    "JORDEN": [
+        2,
+        "JRTN"
+    ],
+    "Jamaica": [
+        3,
+        "JMK"
+    ],
+    "Japan": [
+        16,
+        "JPN"
+    ],
+    "Jardan": [
+        3,
+        "JRTN"
+    ],
+    "Jardine": [
+        3,
+        "JRTN"
+    ],
+    "Jarman": [
+        6,
+        "JRMN"
+    ],
+    "Jarmany": [
+        1,
+        "JRMN"
+    ],
+    "Jartan": [
+        4,
+        "JRTN"
+    ],
+    "Jirdan": [
+        1,
+        "JRTN"
+    ],
+    "Johan": [
+        1,
+        "JHN"
+    ],
+    "Jordan": [
+        416,
+        "JRTN"
+    ],
+    "Jordarn": [
+        1,
+        "JRTRN"
+    ],
+    "JordenJorden": [
+        1,
+        "JRTNJRTN"
+    ],
+    "Jordon": [
+        1,
+        "JRTN"
+    ],
+    "Jurmany": [
+        1,
+        "JRMN"
+    ],
+    "KATAE": [
+        1,
+        "KT"
+    ],
+    "KATAR": [
+        43,
+        "KTR"
+    ],
+    "KATEF": [
+        1,
+        "KTF"
+    ],
+    "KATER": [
+        12,
+        "KTR"
+    ],
+    "KORIA": [
+        1,
+        "KR"
+    ],
+    "KURIA": [
+        1,
+        "KR"
+    ],
+    "Katar": [
+        6,
+        "KTR"
+    ],
+    "Kater": [
+        2,
+        "KTR"
+    ],
+    "Kazakhstan": [
+        2,
+        "KSKSTN"
+    ],
+    "Kenya": [
+        12,
+        "KN"
+    ],
+    "Kiribati": [
+        1,
+        "KRPT"
+    ],
+    "Korea": [
+        1,
+        "KR"
+    ],
+    "Kuwait": [
+        948,
+        "KT"
+    ],
+    "Kyrgyzstan": [
+        3,
+        "KRJSSTN"
+    ],
+    "LABALON": [
+        1,
+        "LPLN"
+    ],
+    "LABANON": [
+        8,
+        "LPNN"
+    ],
+    "LAVANON": [
+        1,
+        "LFNN"
+    ],
+    "LEBALAON": [
+        1,
+        "LPLN"
+    ],
+    "LEBALON": [
+        2,
+        "LPLN"
+    ],
+    "LEBANAN": [
+        1,
+        "LPNN"
+    ],
+    "LEBANON": [
+        5,
+        "LPNN"
+    ],
+    "LONDON": [
+        2,
+        "LNTN"
+    ],
+    "Labalon": [
+        4,
+        "LPLN"
+    ],
+    "Laban": [
+        1,
+        "LPN"
+    ],
+    "Labanan": [
+        1,
+        "LPNN"
+    ],
+    "Labanon": [
+        21,
+        "LPNN"
+    ],
+    "Landon": [
+        1,
+        "LNTN"
+    ],
+    "Latvia": [
+        1,
+        "LTF"
+    ],
+    "Lebalin": [
+        1,
+        "LPLN"
+    ],
+    "Lebalon": [
+        53,
+        "LPLN"
+    ],
+    "Lebalone": [
+        1,
+        "LPLN"
+    ],
+    "Lebanan": [
+        10,
+        "LPNN"
+    ],
+    "Lebanol": [
+        1,
+        "LPNL"
+    ],
+    "Lebanon": [
+        1135,
+        "LPNN"
+    ],
+    "Levanon": [
+        2,
+        "LFNN"
+    ],
+    "Liberia": [
+        3,
+        "LPR"
+    ],
+    "Libya": [
+        37,
+        "LP"
+    ],
+    "London": [
+        4,
+        "LNTN"
+    ],
+    "Lovena": [
+        1,
+        "LFN"
+    ],
+    "MALAYSIA": [
+        4,
+        "MLS"
+    ],
+    "MALDEEP": [
+        1,
+        "MLTP"
+    ],
+    "MALDEP": [
+        4,
+        "MLTP"
+    ],
+    "MALDIP": [
+        3,
+        "MLTP"
+    ],
+    "MALDIVES": [
+        1,
+        "MLTFS"
+    ],
+    "MALDUP": [
+        1,
+        "MLTP"
+    ],
+    "MORICAS": [
+        1,
+        "MRKS"
+    ],
+    "MORICCHAS": [
+        4,
+        "MRXS"
+    ],
+    "MORICHAS": [
+        2,
+        "MRXS"
+    ],
+    "MORICHASH": [
+        2,
+        "MRXX"
+    ],
+    "MORISAS": [
+        7,
+        "MRSS"
+    ],
+    "MORISHAS": [
+        1,
+        "MRXS"
+    ],
+    "MORISHUCH": [
+        1,
+        "MRXX"
+    ],
+    "MORISUS": [
+        13,
+        "MRSS"
+    ],
+    "MURISHUS": [
+        1,
+        "MRXS"
+    ],
+    "Malawi": [
+        2,
+        "ML"
+    ],
+    "Malaysia": [
+        8342,
+        "MLS"
+    ],
+    "Maldeep": [
+        1,
+        "MLTP"
+    ],
+    "Maldip": [
+        5,
+        "MLTP"
+    ],
+    "Maldives": [
+        65,
+        "MLTFS"
+    ],
+    "Mali": [
+        2,
+        "ML"
+    ],
+    "Marichas": [
+        1,
+        "MRXS"
+    ],
+    "Marichuas": [
+        1,
+        "MRXS"
+    ],
+    "Marshall Islands": [
+        9,
+        "MRXLLNTS"
+    ],
+    "Mauritius": [
+        72,
+        "MRTS"
+    ],
+    "Mexico": [
+        1,
+        "MKSK"
+    ],
+    "Micronesia": [
+        3,
+        "MKRNS"
+    ],
+    "Mongolia": [
+        1,
+        "MNKL"
+    ],
+    "Moreshas": [
+        19,
+        "MRXS"
+    ],
+    "Moresus": [
+        1,
+        "MRSS"
+    ],
+    "Morica": [
+        1,
+        "MRK"
+    ],
+    "Moricha": [
+        3,
+        "MRX"
+    ],
+    "Morichaes": [
+        4,
+        "MRKS"
+    ],
+    "Morichars": [
+        1,
+        "MRXRS"
+    ],
+    "Morichas": [
+        13,
+        "MRXS"
+    ],
+    "Morisac": [
+        1,
+        "MRSK"
+    ],
+    "Morisas": [
+        1,
+        "MRSS"
+    ],
+    "Morocco": [
+        7,
+        "MRK"
+    ],
+    "NABALON": [
+        1,
+        "NPLN"
+    ],
+    "NABANON": [
+        1,
+        "NPNN"
+    ],
+    "NEBALON": [
+        2,
+        "NPLN"
+    ],
+    "NEBALOON": [
+        1,
+        "NPLN"
+    ],
+    "NEBANOL": [
+        1,
+        "NPNL"
+    ],
+    "Namibia": [
+        1,
+        "NMP"
+    ],
+    "Nebalon": [
+        5,
+        "NPLN"
+    ],
+    "Nebanol": [
+        62,
+        "NPNL"
+    ],
+    "Netherlands": [
+        2,
+        "N0RLNTS"
+    ],
+    "Netherlands Antilles": [
+        1,
+        "N0RLNTSNTLS"
+    ],
+    "New Zealand": [
+        1,
+        "NSLNT"
+    ],
+    "OMAN": [
+        6,
+        "AMN"
+    ],
+    "Oman": [
+        2234,
+        "AMN"
+    ],
+    "Other": [
+        5,
+        "A0R"
+    ],
+    "Pakistan": [
+        2,
+        "PKSTN"
+    ],
+    "Poland": [
+        3,
+        "PLNT"
+    ],
+    "Portugal": [
+        7,
+        "PRTKL"
+    ],
+    "Puerto Rico": [
+        1,
+        "PRTRK"
+    ],
+    "QATAR": [
+        5,
+        "KTR"
+    ],
+    "QUATAR": [
+        2,
+        "KTR"
+    ],
+    "QUEIT": [
+        1,
+        "KT"
+    ],
+    "QUET": [
+        1,
+        "KT"
+    ],
+    "QUITE": [
+        1,
+        "KT"
+    ],
+    "QUWET": [
+        2,
+        "KT"
+    ],
+    "Qatar": [
+        3791,
+        "KTR"
+    ],
+    "Quat": [
+        3,
+        "KT"
+    ],
+    "Quiet": [
+        1,
+        "KT"
+    ],
+    "Quite": [
+        6,
+        "KT"
+    ],
+    "Qutar": [
+        1,
+        "KTR"
+    ],
+    "Quweat": [
+        1,
+        "KT"
+    ],
+    "Reunion": [
+        1,
+        "RNN"
+    ],
+    "Roman": [
+        1,
+        "RMN"
+    ],
+    "Romania": [
+        1,
+        "RMN"
+    ],
+    "SAIPAS": [
+        1,
+        "SPS"
+    ],
+    "SAIPASH": [
+        2,
+        "SPX"
+    ],
+    "SAIPRASS": [
+        1,
+        "SPRS"
+    ],
+    "SAYFRASH": [
+        1,
+        "SFRX"
+    ],
+    "SAYPRAS": [
+        1,
+        "SPRS"
+    ],
+    "SEGAPOR": [
+        1,
+        "SKPR"
+    ],
+    "SEGAPUR": [
+        1,
+        "SKPR"
+    ],
+    "SINGAPUR": [
+        3,
+        "SNKPR"
+    ],
+    "SOUTH AFRICA": [
+        3,
+        "S0FRK"
+    ],
+    "SOUTH AUSTRALIA": [
+        1,
+        "S0STRL"
+    ],
+    "SPAIN": [
+        1,
+        "SPN"
+    ],
+    "SYPRUSS": [
+        1,
+        "SPRS"
+    ],
+    "Saint Helena": [
+        5,
+        "SNTLN"
+    ],
+    "Saint Pierre and Miquelon": [
+        1,
+        "SNTPRNTMKLN"
+    ],
+    "Saipas": [
+        3,
+        "SPS"
+    ],
+    "Saud Africa": [
+        1,
+        "STFRK"
+    ],
+    "Saudi Arabia": [
+        3378,
+        "STRP"
+    ],
+    "Serbia": [
+        16,
+        "SRP"
+    ],
+    "Seychelles": [
+        1,
+        "SXLS"
+    ],
+    "Shypris": [
+        1,
+        "XPRS"
+    ],
+    "Singapore": [
+        628,
+        "SNKPR"
+    ],
+    "Singapur": [
+        1,
+        "SNKPR"
+    ],
+    "Singarpur": [
+        1,
+        "SNKRPR"
+    ],
+    "Sodan": [
+        1,
+        "STN"
+    ],
+    "Somalia": [
+        1,
+        "SML"
+    ],
+    "Soudi arab": [
+        1,
+        "STRP"
+    ],
+    "South Africa": [
+        185,
+        "S0FRK"
+    ],
+    "South Korea": [
+        10,
+        "S0KR"
+    ],
+    "South Sudan": [
+        1,
+        "S0STN"
+    ],
+    "Spain": [
+        20,
+        "SPN"
+    ],
+    "Span": [
+        6,
+        "SPN"
+    ],
+    "Sudan": [
+        3,
+        "STN"
+    ],
+    "Swaziland": [
+        5,
+        "SSLNT"
+    ],
+    "Sweden": [
+        9,
+        "STN"
+    ],
+    "Syria": [
+        2,
+        "SR"
+    ],
+    "Tanzania": [
+        1,
+        "TNSN"
+    ],
+    "Turkey": [
+        1,
+        "TRK"
+    ],
+    "U S A": [
+        1,
+        "AS"
+    ],
+    "UAE": [
+        380,
+        "A"
+    ],
+    "UEA": [
+        25,
+        "A"
+    ],
+    "UES": [
+        1,
+        "AS"
+    ],
+    "UK": [
+        120,
+        "AK"
+    ],
+    "UNITED ARAB AMIRAT": [
+        2,
+        "ANTTRPMRT"
+    ],
+    "UNITED ARAB EMIRATES": [
+        1,
+        "ANTTRPMRTS"
+    ],
+    "US": [
+        84,
+        "AS"
+    ],
+    "USA": [
+        14,
+        "AS"
+    ],
+    "Ukraine": [
+        5,
+        "AKRN"
+    ],
+    "United Arab Emirates": [
+        539,
+        "ANTTRPMRTS"
+    ],
+    "United Kingdom": [
+        101,
+        "ANTTKNKTM"
+    ],
+    "United States": [
+        88,
+        "ANTTSTTS"
+    ],
+    "VRONAI": [
+        4,
+        "FRN"
+    ],
+    "VRUNAI": [
+        1,
+        "FRN"
+    ],
+    "VUNAI": [
+        1,
+        "FN"
+    ],
+    "Yemen": [
+        1,
+        "AMN"
+    ],
+    "ZARDAN": [
+        2,
+        "SRTN"
+    ],
+    "ZARMAN": [
+        1,
+        "SRMN"
+    ],
+    "ZORDAN": [
+        4,
+        "SRTN"
+    ],
+    "Zardan": [
+        1,
+        "SRTN"
+    ],
+    "Zordan": [
+        1,
+        "SRTN"
+    ],
+    "Zordan/ Issu Date.20/08/2008": [
+        1,
+        "SRTNSTT"
+    ],
+    "abu Dhabi": [
+        3,
+        "APTP"
+    ],
+    "abu dabhi": [
+        1,
+        "APTP"
+    ],
+    "abu dabi": [
+        2,
+        "APTP"
+    ],
+    "abu dhabi": [
+        2,
+        "APTP"
+    ],
+    "abudabe": [
+        2,
+        "APTP"
+    ],
+    "abudabi": [
+        4,
+        "APTP"
+    ],
+    "abudhabi": [
+        1,
+        "APTP"
+    ],
+    "afrika": [
+        3,
+        "AFRK"
+    ],
+    "america": [
+        2,
+        "AMRK"
+    ],
+    "amerika": [
+        1,
+        "AMRK"
+    ],
+    "amirika": [
+        1,
+        "AMRK"
+    ],
+    "amreka": [
+        1,
+        "AMRK"
+    ],
+    "astoliya": [
+        1,
+        "ASTL"
+    ],
+    "aus": [
+        1,
+        "AS"
+    ],
+    "austila": [
+        1,
+        "ASTL"
+    ],
+    "austilia": [
+        1,
+        "ASTL"
+    ],
+    "austrolia": [
+        1,
+        "ASTRL"
+    ],
+    "bahrain": [
+        2,
+        "PRN"
+    ],
+    "bahrin": [
+        1,
+        "PRN"
+    ],
+    "bangladesh": [
+        1,
+        "PNKLTX"
+    ],
+    "bonai": [
+        6,
+        "PN"
+    ],
+    "boni": [
+        2,
+        "PN"
+    ],
+    "brajil": [
+        1,
+        "PRJL"
+    ],
+    "brazil": [
+        1,
+        "PRSL"
+    ],
+    "bronai": [
+        6,
+        "PRN"
+    ],
+    "bronay": [
+        1,
+        "PRN"
+    ],
+    "brunai": [
+        4,
+        "PRN"
+    ],
+    "brunay": [
+        3,
+        "PRN"
+    ],
+    "bruni": [
+        1,
+        "PRN"
+    ],
+    "brunie": [
+        4,
+        "PRN"
+    ],
+    "bunai": [
+        32,
+        "PN"
+    ],
+    "caipress": [
+        1,
+        "KPRS"
+    ],
+    "canada": [
+        1,
+        "KNT"
+    ],
+    "chichilya": [
+        1,
+        "XXL"
+    ],
+    "chinchilla": [
+        1,
+        "XNXL"
+    ],
+    "cichliya": [
+        1,
+        "SXL"
+    ],
+    "cyprus": [
+        1,
+        "SPRS"
+    ],
+    "dhobay": [
+        1,
+        "TP"
+    ],
+    "dobai": [
+        10,
+        "TP"
+    ],
+    "dobay": [
+        9,
+        "TP"
+    ],
+    "dobi": [
+        2,
+        "TP"
+    ],
+    "dobiy": [
+        1,
+        "TP"
+    ],
+    "doby": [
+        1,
+        "TP"
+    ],
+    "dog at": [
+        1,
+        "TKT"
+    ],
+    "donay": [
+        1,
+        "TN"
+    ],
+    "dovai": [
+        1,
+        "TF"
+    ],
+    "duabai": [
+        1,
+        "TP"
+    ],
+    "dubai": [
+        124,
+        "TP"
+    ],
+    "dubay": [
+        12,
+        "TP"
+    ],
+    "dubi": [
+        5,
+        "TP"
+    ],
+    "duby": [
+        22,
+        "TP"
+    ],
+    "duvai": [
+        5,
+        "TF"
+    ],
+    "eatali": [
+        1,
+        "ATL"
+    ],
+    "etai": [
+        1,
+        "AT"
+    ],
+    "etali": [
+        1,
+        "ATL"
+    ],
+    "fanc": [
+        1,
+        "FNK"
+    ],
+    "farance": [
+        2,
+        "FRNS"
+    ],
+    "farans": [
+        2,
+        "FRNS"
+    ],
+    "france": [
+        9,
+        "FRNS"
+    ],
+    "franch": [
+        6,
+        "FRNX"
+    ],
+    "frince": [
+        2,
+        "FRNS"
+    ],
+    "german": [
+        2,
+        "KRMN"
+    ],
+    "giris": [
+        2,
+        "JRS"
+    ],
+    "giss": [
+        1,
+        "JS"
+    ],
+    "grecc": [
+        1,
+        "KRK"
+    ],
+    "greec": [
+        2,
+        "KRK"
+    ],
+    "greece": [
+        1,
+        "KRS"
+    ],
+    "grees": [
+        2,
+        "KRS"
+    ],
+    "greesh": [
+        2,
+        "KRX"
+    ],
+    "gres": [
+        1,
+        "KRS"
+    ],
+    "gress": [
+        2,
+        "KRS"
+    ],
+    "griris": [
+        1,
+        "KRRS"
+    ],
+    "gris": [
+        3,
+        "KRS"
+    ],
+    "grish": [
+        4,
+        "KRX"
+    ],
+    "hongkong": [
+        2,
+        "HNKKNK"
+    ],
+    "irak": [
+        1,
+        "ARK"
+    ],
+    "iraq": [
+        2,
+        "ARK"
+    ],
+    "ireland": [
+        8,
+        "ARLNT"
+    ],
+    "irland": [
+        1,
+        "ARLNT"
+    ],
+    "irq": [
+        1,
+        "ARK"
+    ],
+    "itali": [
+        37,
+        "ATL"
+    ],
+    "italia": [
+        10,
+        "ATL"
+    ],
+    "italy": [
+        66,
+        "ATL"
+    ],
+    "italya": [
+        1,
+        "ATL"
+    ],
+    "itaty": [
+        1,
+        "ATT"
+    ],
+    "ithali": [
+        1,
+        "A0L"
+    ],
+    "itlay": [
+        12,
+        "ATL"
+    ],
+    "itly": [
+        1,
+        "ATL"
+    ],
+    "ittali": [
+        2,
+        "ATL"
+    ],
+    "jaddan": [
+        1,
+        "JTN"
+    ],
+    "japan": [
+        1,
+        "JPN"
+    ],
+    "jardan": [
+        11,
+        "JRTN"
+    ],
+    "jarddan": [
+        1,
+        "JRTN"
+    ],
+    "jarman": [
+        3,
+        "JRMN"
+    ],
+    "jarmany": [
+        1,
+        "JRMN"
+    ],
+    "jartan": [
+        12,
+        "JRTN"
+    ],
+    "jarthan": [
+        3,
+        "JR0N"
+    ],
+    "jodan": [
+        10,
+        "JTN"
+    ],
+    "joddan": [
+        2,
+        "JTN"
+    ],
+    "joden": [
+        1,
+        "JTN"
+    ],
+    "jorda-": [
+        1,
+        "JRT"
+    ],
+    "jordain": [
+        1,
+        "JRTN"
+    ],
+    "jordan": [
+        94,
+        "JRTN"
+    ],
+    "jordanian": [
+        1,
+        "JRTNN"
+    ],
+    "jordhan": [
+        1,
+        "JRTN"
+    ],
+    "jordon": [
+        1,
+        "JRTN"
+    ],
+    "jorodan": [
+        1,
+        "JRTN"
+    ],
+    "jurman": [
+        1,
+        "JRMN"
+    ],
+    "jurmany": [
+        3,
+        "JRMN"
+    ],
+    "kanada": [
+        2,
+        "KNT"
+    ],
+    "katar": [
+        20,
+        "KTR"
+    ],
+    "kater": [
+        7,
+        "KTR"
+    ],
+    "kather": [
+        3,
+        "K0R"
+    ],
+    "khatar": [
+        1,
+        "KTR"
+    ],
+    "khater": [
+        1,
+        "KTR"
+    ],
+    "kowait": [
+        1,
+        "KT"
+    ],
+    "kuwait": [
+        1,
+        "KT"
+    ],
+    "kuwet": [
+        1,
+        "KT"
+    ],
+    "labalon": [
+        29,
+        "LPLN"
+    ],
+    "labanan": [
+        1,
+        "LPNN"
+    ],
+    "labanol": [
+        1,
+        "LPNL"
+    ],
+    "labanon": [
+        32,
+        "LPNN"
+    ],
+    "labanya": [
+        1,
+        "LPN"
+    ],
+    "laybanon": [
+        2,
+        "LPNN"
+    ],
+    "lebabon": [
+        1,
+        "LPPN"
+    ],
+    "lebalon": [
+        83,
+        "LPLN"
+    ],
+    "lebalone": [
+        4,
+        "LPLN"
+    ],
+    "lebanon": [
+        295,
+        "LPNN"
+    ],
+    "lebernol": [
+        1,
+        "LPRNL"
+    ],
+    "lebolon": [
+        1,
+        "LPLN"
+    ],
+    "lenanon": [
+        2,
+        "LNNN"
+    ],
+    "levalon": [
+        2,
+        "LFLN"
+    ],
+    "levanon": [
+        7,
+        "LFNN"
+    ],
+    "libalon": [
+        4,
+        "LPLN"
+    ],
+    "libia": [
+        1,
+        "LP"
+    ],
+    "london": [
+        1,
+        "LNTN"
+    ],
+    "ltali": [
+        1,
+        "LTL"
+    ],
+    "ltaly": [
+        2,
+        "LTL"
+    ],
+    "maaldip": [
+        1,
+        "MLTP"
+    ],
+    "malaysia": [
+        1,
+        "MLS"
+    ],
+    "maldeep": [
+        1,
+        "MLTP"
+    ],
+    "maldib": [
+        2,
+        "MLTP"
+    ],
+    "maldip": [
+        18,
+        "MLTP"
+    ],
+    "maldives": [
+        8,
+        "MLTFS"
+    ],
+    "maricharc": [
+        1,
+        "MRXRK"
+    ],
+    "marichu": [
+        1,
+        "MRX"
+    ],
+    "maricous": [
+        1,
+        "MRKS"
+    ],
+    "maricuas": [
+        1,
+        "MRKS"
+    ],
+    "marisus": [
+        1,
+        "MRSS"
+    ],
+    "moreshas": [
+        2,
+        "MRXS"
+    ],
+    "morica": [
+        1,
+        "MRK"
+    ],
+    "morichaes": [
+        3,
+        "MRKS"
+    ],
+    "morichars": [
+        1,
+        "MRXRS"
+    ],
+    "morichas": [
+        14,
+        "MRXS"
+    ],
+    "morichash": [
+        1,
+        "MRXX"
+    ],
+    "morisas": [
+        4,
+        "MRSS"
+    ],
+    "morish": [
+        2,
+        "MRX"
+    ],
+    "morishas": [
+        1,
+        "MRXS"
+    ],
+    "morisus": [
+        1,
+        "MRSS"
+    ],
+    "muldip": [
+        2,
+        "MLTP"
+    ],
+    "murichas": [
+        2,
+        "MRXS"
+    ],
+    "nabalon": [
+        1,
+        "NPLN"
+    ],
+    "nabanol": [
+        3,
+        "NPNL"
+    ],
+    "nabanon": [
+        1,
+        "NPNN"
+    ],
+    "navalon": [
+        3,
+        "NFLN"
+    ],
+    "nebalon": [
+        3,
+        "NPLN"
+    ],
+    "nebanol": [
+        74,
+        "NPNL"
+    ],
+    "nebarnon": [
+        1,
+        "NPRNN"
+    ],
+    "newzaland": [
+        1,
+        "NSLNT"
+    ],
+    "oman": [
+        1,
+        "AMN"
+    ],
+    "poland": [
+        1,
+        "PLNT"
+    ],
+    "polend": [
+        1,
+        "PLNT"
+    ],
+    "qATAR": [
+        1,
+        "KTR"
+    ],
+    "qatar": [
+        1,
+        "KTR"
+    ],
+    "qreece": [
+        1,
+        "KRS"
+    ],
+    "quat": [
+        2,
+        "KT"
+    ],
+    "quate": [
+        1,
+        "KT"
+    ],
+    "quet": [
+        1,
+        "KT"
+    ],
+    "quit": [
+        1,
+        "KT"
+    ],
+    "quite": [
+        3,
+        "KT"
+    ],
+    "roman": [
+        2,
+        "RMN"
+    ],
+    "saifras": [
+        1,
+        "SFRS"
+    ],
+    "saipash": [
+        2,
+        "SPX"
+    ],
+    "saouth Africa": [
+        1,
+        "S0FRK"
+    ],
+    "saud Africa": [
+        1,
+        "STFRK"
+    ],
+    "sauth africa": [
+        2,
+        "S0FRK"
+    ],
+    "saypas": [
+        1,
+        "SPS"
+    ],
+    "shouth Africa": [
+        1,
+        "X0FRK"
+    ],
+    "singapur": [
+        4,
+        "SNKPR"
+    ],
+    "south Africa": [
+        18,
+        "S0FRK"
+    ],
+    "south africa": [
+        35,
+        "S0FRK"
+    ],
+    "south afrika": [
+        2,
+        "S0FRK"
+    ],
+    "southafrica": [
+        1,
+        "S0FRK"
+    ],
+    "southafrika": [
+        1,
+        "S0FRK"
+    ],
+    "spain": [
+        2,
+        "SPN"
+    ],
+    "span": [
+        2,
+        "SPN"
+    ],
+    "spean": [
+        1,
+        "SPN"
+    ],
+    "spen": [
+        2,
+        "SPN"
+    ],
+    "sudan": [
+        1,
+        "STN"
+    ],
+    "suiden": [
+        1,
+        "STN"
+    ],
+    "swaziland": [
+        2,
+        "SSLNT"
+    ],
+    "syprus": [
+        1,
+        "SPRS"
+    ],
+    "usa": [
+        3,
+        "AS"
+    ],
+    "vunai": [
+        1,
+        "FN"
+    ],
+    "zardan": [
+        7,
+        "SRTN"
+    ],
+    "zarman": [
+        5,
+        "SRMN"
+    ],
+    "zordan": [
+        9,
+        "SRTN"
+    ]
+}

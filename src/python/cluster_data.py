@@ -19,7 +19,7 @@ class DataCluster(object):
             'Decoding JSON has failed'
         connection_file.close()
 
-        for index, val in enumerate(self._User_Data):
+        for  val in enumerate(self._User_Data):
             self._Metaphone_User_Data.append(metaphone(val))
 
         To_Add=dict(zip(self._User_Data,self._Metaphone_User_Data))
@@ -29,7 +29,7 @@ class DataCluster(object):
                 self._User_Data[key] = [self._User_Data[key], val]
 
         with open(self._Output_File_Name, 'w') as outfile:
-            json.dump(self._User_Data, outfile,indent=4)
+            json.dump(self._User_Data, outfile,indent = 4)
 
 if __name__ == '__main__':
     Data_Aggregator = DataCluster()
