@@ -15,7 +15,7 @@ class GooglesheetReader(object):
     def read(self):
         creds = ServiceAccountCredentials.from_json_keyfile_name(self._cred, self._scope)
         client = gspread.authorize(creds)
-        sh = client.open(self._gsheet).sheet1
+        sh = client.open(self._gsheet).get_worksheet(0)
         result = sh.col_values(1)
 
         with open(self._outputfilename, 'w') as outfile:

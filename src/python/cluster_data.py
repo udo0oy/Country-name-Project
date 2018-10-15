@@ -19,13 +19,14 @@ class DataCluster(object):
             'Decoding JSON has failed'
         connection_file.close()
 
-        for  val in enumerate(self._User_Data):
+        for  index,val in enumerate(self._User_Data):
             self._Metaphone_User_Data.append(metaphone(val))
 
         To_Add=dict(zip(self._User_Data,self._Metaphone_User_Data))
-
+        
         for key, val in To_Add.items():
             if key in self._User_Data:
+                print(val)
                 self._User_Data[key] = [self._User_Data[key], val]
 
         with open(self._Output_File_Name, 'w') as outfile:
